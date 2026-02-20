@@ -49,10 +49,10 @@ export default async function Home() {
         </section>
 
         <section className="mb-16">
-          <h2 className="text-3xl font-bold mb-8 text-center">My Accomplishments</h2>
+          <h2 className="text-3xl font-bold mb-8 text-center">Who Am I?</h2>
           <div className="max-w-3xl mx-auto bg-cyan-50/95 dark:bg-slate-800/95 backdrop-blur-sm rounded-lg shadow-lg p-8">
             <p className="text-gray-700 dark:text-gray-300 mb-4">
-            As an SDET Manager / Architect at Degreed, I contribute to the development and implementation of AI-driven test automation strategies, with a focus on embedding quality throughout the software delivery lifecycle. Leveraging my expertise in artificial intelligence, agent-based automation, and quality assurance, I have built scalable automation frameworks and tools that align with enterprise standards.
+            I am an AI Accelerated SDET Manager / Architect at Degreed, where I contribute to the development and implementation of AI-driven test automation strategies, focusing on embedding quality throughout the software delivery lifecycle. Leveraging my expertise in artificial intelligence, Claude Code Agent / Skills based automation, and quality assurance, I have built scalable automation frameworks and tools that align with enterprise standards for a quality release everytime.
             </p>
           </div>
         </section>
